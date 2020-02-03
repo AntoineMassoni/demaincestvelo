@@ -178,6 +178,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activestorage
   autoprefixer-rails
   bootsnap
   dotenv-rails
