@@ -9,6 +9,7 @@ gem 'rails', '5.2.4.1'
 gem 'redis'
 
 gem 'activestorage'
+gem "aws-sdk-s3", require: false
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
