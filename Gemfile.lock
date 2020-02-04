@@ -66,6 +66,8 @@ GEM
       msgpack (~> 1.0)
     builder (3.2.4)
     byebug (11.1.1)
+    ckeditor (5.0.0)
+      orm_adapter (~> 0.5.0)
     coderay (1.1.2)
     concurrent-ruby (1.1.5)
     crass (1.0.6)
@@ -104,6 +106,7 @@ GEM
     nio4r (2.5.2)
     nokogiri (1.10.7)
       mini_portile2 (~> 2.4.0)
+    orm_adapter (0.5.0)
     pg (0.21.0)
     pry (0.12.2)
       coderay (~> 1.1.0)
@@ -199,6 +202,7 @@ DEPENDENCIES
   autoprefixer-rails
   aws-sdk-s3
   bootsnap
+  ckeditor
   dotenv-rails
   font-awesome-sass (~> 5.6.1)
   jbuilder (~> 2.0)
