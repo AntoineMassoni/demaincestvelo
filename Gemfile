@@ -11,9 +11,6 @@ gem 'redis'
 gem 'activestorage'
 gem "aws-sdk-s3", require: false
 
-
-
-
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'sassc-rails'
