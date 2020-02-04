@@ -12,7 +12,7 @@ gem 'activestorage'
 gem "aws-sdk-s3", require: false
 
 
-gem 'ckeditor'
+
 
 gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
